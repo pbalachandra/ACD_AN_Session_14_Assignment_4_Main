@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Delete Contact from Phonebook</string>
+    <string name="name">Enter Contact Name : </string>
+    <string name="warning">Contact %1$s does not exist. Enter a Valid Contact.</string>
+    <string name="message">Contact Deleted from Phonebook</string>
+    <string name="empty">Contact Name cannot be Empty</string>
+</resources>
